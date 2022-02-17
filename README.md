@@ -1,4 +1,4 @@
-# HW-One
+# Mark-Down
 This is a case study for a fintech project
 ## Case Study Proposal
 ## BlockFi’s Crypto Credit Card Rewards Program
